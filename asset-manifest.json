@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/superheros/static/css/main.db5ec3f0.css",
+    "main.js": "/superheros/static/js/main.27707758.js",
+    "static/media/BellotaText-Regular.eot": "/superheros/static/media/BellotaText-Regular.41a37e336dc83f3bc7ad.eot",
+    "static/media/BellotaText-Regular.ttf": "/superheros/static/media/BellotaText-Regular.53253e36d93a74b3fd96.ttf",
+    "static/media/BellotaText-Regular.woff": "/superheros/static/media/BellotaText-Regular.8238e0503e07b77cebf6.woff",
+    "static/media/BellotaText-Regular.woff2": "/superheros/static/media/BellotaText-Regular.2b1f9ff082462d902044.woff2",
+    "index.html": "/superheros/index.html",
+    "main.db5ec3f0.css.map": "/superheros/static/css/main.db5ec3f0.css.map",
+    "main.27707758.js.map": "/superheros/static/js/main.27707758.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db5ec3f0.css",
+    "static/js/main.27707758.js"
+  ]
+}
