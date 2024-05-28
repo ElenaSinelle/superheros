@@ -1,16 +1,14 @@
-export default function Card(props) {
-  const {
-    id,
-    name,
-    universe,
-    alterego,
-    occupation,
-    friends,
-    superpowers,
-    url,
-    info,
-  } = props;
-
+export default function Card({
+  id,
+  name,
+  universe,
+  alterego,
+  occupation,
+  friends,
+  superpowers,
+  url,
+  info,
+}) {
   return (
     <div className="item">
       <h3 className="itemTitle" id={id}>

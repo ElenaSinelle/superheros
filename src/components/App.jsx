@@ -1,5 +1,5 @@
 import React from "react";
-import "../App.css";
+import "../styles/App.css";
 import Title from "./Title";
 import GalleryContainer from "./GalleryContainer";
 
@@ -11,15 +11,3 @@ export default function App() {
     </div>
   );
 }
-
-// // variant with classes
-// export default class App extends React.Component {
-//   render() {
-//     return (
-//       <div className="gallery">
-//         <Title />
-//         <GalleryContainer />
-//       </div>
-//     );
-//   }
-// }

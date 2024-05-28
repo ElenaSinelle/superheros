@@ -1,0 +1,28 @@
+@font-face {
+  font-family: "Bellota";
+  src: url("../fonts/BellotaText-Regular.ttf");
+  src: url("../fonts/BellotaText-Regular.eot") format("embedded-opentype"),
+    url("../fonts/BellotaText-Regular.woff2") format("woff2"),
+    url("../fonts/BellotaText-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  margin: 0;
+  font: normal normal 16px/20px Bellota, sans-serif;
+  color: rgb(201, 232, 242);
+  background-color: rgb(25, 53, 79);
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+  align-items: center;
+  border: 2px solid rgb(27, 115, 144);
+  border-radius: 0.3rem;
+  padding: 2rem;
+  position: relative;
+  transition: all ease 0.5s;
+}
